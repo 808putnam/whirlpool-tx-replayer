@@ -5,6 +5,7 @@ members = [
   "whirlpool-replay-command",
 ]
 
+
 resolver = "2"
 
 [workspace.package]
