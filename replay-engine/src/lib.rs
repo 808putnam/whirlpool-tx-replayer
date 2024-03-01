@@ -9,3 +9,6 @@ mod replay_instructions;
 mod util;
 mod programs;
 mod pubkeys;
+
+// qtrade
+pub mod qtrade;

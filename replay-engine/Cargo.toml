@@ -33,3 +33,8 @@ solana-cli-output = { workspace = true }
 solana-ledger = { workspace = true }
 spl-token = { workspace = true }
 
+# qtrade
+anyhow = { workspace = true }
+dirs = { workspace = true }
+portpicker = { workspace = true }
+solana-faucet = { workspace = true }
